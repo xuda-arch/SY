@@ -1,4 +1,4 @@
-package cn.edu.scujcc.sy1;
+package cn.edu.scujcc.sy;
 
 import androidx.appcompat.app.AppCompatActivity;
 
